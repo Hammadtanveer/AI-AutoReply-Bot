@@ -45,8 +45,7 @@ Generates appropriate automated responses
 
 Clone the repository:
 
-git clone https://github.com/your-username/ai-automated-response-system.git
-
+git clone https://github.com/Hammadtanveer/AI-AutoReply-Bot.git
 Navigate to the project directory:
 
 cd ai-automated-response-system
